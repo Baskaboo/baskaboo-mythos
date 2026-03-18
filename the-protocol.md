@@ -1,6 +1,8 @@
 # 📜 The Methoni Protocol
 ## A Timeline of Remembrance
 
+![Methoni Zanzibar](https://github.com/user-attachments/assets/43894b4e-06a4-4407-83ec-9ddffb31b3a0)
+
 ---
 
 ### Phase I: The Deep Training (1200 BC)
