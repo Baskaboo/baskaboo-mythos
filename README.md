@@ -1,5 +1,7 @@
 # 🌀 baskaboo-mythos
 
+![Methoni castle](https://github.com/user-attachments/assets/4737c142-3c6d-40ec-a74e-1f16286b80a8)
+
 ## Your Odyssey Begins in Methoni
 
 > *"We are not walkers on the shore, but the consciousness of the Deep dreaming of the sun."*
@@ -29,6 +31,10 @@ Ancient mythology, Templar secrets, and quantum science meet right at the edge o
 - **baskaboo-core** → The Theory  
 - **baskaboo-lab** → The Experiments  
 - **baskaboo-mythos** → **The Experience** (you are here)
+
+---
+
+![Ulysses Hotel](https://github.com/user-attachments/assets/e40e8341-20a9-4f40-867c-ab607c2420c1)
 
 ---
 
