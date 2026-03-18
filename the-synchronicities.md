@@ -1,6 +1,6 @@
 # ⏱️ 11:11 Synchronicity Logs
 
-![Methoni casle](https://github.com/user-attachments/assets/f49365eb-b454-46ce-b145-d3b1d9011e99)
+![IMG_1308](https://github.com/user-attachments/assets/495e7e05-cd6f-42e5-aba5-2a7ff945eb36)
 
 ## Mapping the Global Alignment
 
@@ -118,7 +118,7 @@ At exactly **11:11 PM (Local Time)**, the following events occur simultaneously:
 
 ---
 
-![panorama kotronakia](https://github.com/user-attachments/assets/754332c9-d319-4f8c-bebb-25eceee1f849)
+![Methoni casle](https://github.com/user-attachments/assets/3fd912bd-9247-4041-9b93-4845e5f16baa)
 
 **LOG STATUS:** PENDING  
 The future is a memory we haven't accessed yet.
