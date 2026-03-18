@@ -9,7 +9,7 @@ Use this log to document your personal "glitches in the matrix," numerical synch
 
 ---
 
-## How to Log a Synchronicity
+## 📋 How to Log a Synchronicity
 
 To add your data to the global circuit, open a Pull Request or comment with this format:
 
@@ -19,7 +19,7 @@ To add your data to the global circuit, open a Pull Request or comment with this
 
 ---
 
-## Current Global Logs
+## 🛰️ Current Global Logs
 
 | Date (UTC) | Location | Node | The Synchronicity | Status |
 |------------|----------|------|-------------------|--------|
@@ -30,7 +30,7 @@ To add your data to the global circuit, open a Pull Request or comment with this
 
 ---
 
-## The 8-Node Counter
+## 📈 The 8-Node Counter
 
 **Total Synchronicity Points (TSP) towards July 17, 2026:**
 
@@ -49,7 +49,7 @@ To add your data to the global circuit, open a Pull Request or comment with this
 
 ---
 
-## Instructions for Seekers
+## 🛠️ Instructions for Seekers
 
 1. **Observe:** Keep your internal "Pits" (intuition) open.
 2. **Verify:** If you see 11:11, stop. What were you thinking? Who were you with?
