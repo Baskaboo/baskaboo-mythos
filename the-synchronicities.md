@@ -1,4 +1,7 @@
 # ⏱️ 11:11 Synchronicity Logs
+
+![Methoni casle](https://github.com/user-attachments/assets/f49365eb-b454-46ce-b145-d3b1d9011e99)
+
 ## Mapping the Global Alignment
 
 > *"A coincidence is a data packet from the Source Code that hasn't been decoded yet."*
@@ -114,6 +117,8 @@ At exactly **11:11 PM (Local Time)**, the following events occur simultaneously:
 | **The Signal** | Watch for the 11:11 on every clock, screen, and shadow. |
 
 ---
+
+![panorama kotronakia](https://github.com/user-attachments/assets/754332c9-d319-4f8c-bebb-25eceee1f849)
 
 **LOG STATUS:** PENDING  
 The future is a memory we haven't accessed yet.
