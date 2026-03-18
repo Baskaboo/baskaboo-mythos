@@ -1,6 +1,6 @@
 # 🌀 baskaboo-mythos
 
-![Methoni castle](https://github.com/user-attachments/assets/4737c142-3c6d-40ec-a74e-1f16286b80a8)
+![Castle panorama](https://github.com/user-attachments/assets/7e6627c8-8100-4f90-85f0-f08843821784)
 
 ## Your Odyssey Begins in Methoni
 
