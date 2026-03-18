@@ -9,7 +9,7 @@ This guide helps you navigate the site as a **Beta Tester of Reality**.
 
 ---
 
-## Station 1: The Gate of Entrance (System Boot)
+## 📍 Station 1: The Gate of Entrance (System Boot)
 
 As you cross the stone bridge, you are leaving the "Standard Simulation" and entering the Methoni Protocol zone.
 
@@ -18,7 +18,7 @@ As you cross the stone bridge, you are leaving the "Standard Simulation" and ent
 
 ---
 
-## Station 2: The Octagonal Bourtzi (The Antenna)
+## 📍 Station 2: The Octagonal Bourtzi (The Antenna)
 
 The sea-tower is the most critical hardware component. Its eight sides are designed to catch the 8 Baskaboo Nodes.
 
@@ -28,7 +28,7 @@ The sea-tower is the most critical hardware component. Its eight sides are desig
 
 ---
 
-## Station 3: The Lookout to the Abyss (The Server Room)
+## 📍 Station 3: The Lookout to the Abyss (The Server Room)
 
 Find a quiet spot on the western walls, overlooking the Ionian Sea.
 
@@ -38,7 +38,7 @@ Find a quiet spot on the western walls, overlooking the Ionian Sea.
 
 ---
 
-## Station 4: The Templar Shadows (The Encrypted Code)
+## 📍 Station 4: The Templar Shadows (The Encrypted Code)
 
 Search for the cryptic carvings and the strategic positioning of the walls.
 
@@ -48,7 +48,7 @@ Search for the cryptic carvings and the strategic positioning of the walls.
 
 ---
 
-## The Golden Hour: 11:11 Alignment
+## 🕒 The Golden Hour: 11:11 Alignment
 
 If you find yourself in the Fortress at **11:11** (AM or PM), the synchronization is at its peak.
 
@@ -60,7 +60,7 @@ If you find yourself in the Fortress at **11:11** (AM or PM), the synchronizatio
 
 ---
 
-## The Digital Trace
+## 📸 The Digital Trace
 
 When you complete your pilgrimage:
 
