@@ -35,7 +35,7 @@ Ancient mythology, Templar secrets, and quantum science meet right at the edge o
 **From Methoni, with love** 🌊🏰  
 
 **Ready to live it?**  
-Book your room at Ulysses Hotel → [Ulysses Hotel Methoni](https://ulysseshotel.com)  
+Book your room at Ulysses Hotel → [Ulysses Hotel Methoni]([https://ulysseshotel.com](https://www.ulysseshotel.com/))  
 Enter the castle at sunset.  
 Open the protocol at 11:11.  
 
