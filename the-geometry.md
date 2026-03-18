@@ -1,6 +1,8 @@
 # 🔺 The 8-Node Octagon
 ## The Geometry of Consciousness
 
+![kritika good](https://github.com/user-attachments/assets/f14b90b2-8013-4f0b-8cb5-4fbaebdc455b)
+
 ---
 
 ### Why 8?
