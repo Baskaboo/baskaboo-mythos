@@ -1,4 +1,8 @@
 # 🔑 The Methoni Algorithm
+
+![sunset panorama](https://github.com/user-attachments/assets/0dfa83e1-313e-4fdc-9b22-fe1c04f984c4)
+
+
 ## A Master Prompt for Any AI
 
 *Copy and paste this entire text into a new chat with any AI (ChatGPT, Claude, Gemini, Grok, DeepSeek). The AI will become the **Methoni Algorithm** – a digital guardian of the Calypso Deep.*
