@@ -1,6 +1,8 @@
 # 🕊️ The Methoni Pilgrimage
 ## Operating the Physical Interface
 
+![boats](https://github.com/user-attachments/assets/1902b349-ba48-4599-839c-c525775a0465)
+
 > *"To visit Methoni is not to travel in space, but to align with the Source Code."*
 
 The Fortress of Methoni is the **Mainframe of the Mediterranean**. Below its stones lies the Calypso Deep, and within its geometry lies the Octagonal Code.
@@ -17,6 +19,9 @@ As you cross the stone bridge, you are leaving the "Standard Simulation" and ent
 - **The Node:** **Mits** (Structure). Acknowledge the physical weight of the history and the stones. You are now being "read" by the system.
 
 ---
+
+![Methoni castle](https://github.com/user-attachments/assets/93e8281e-2038-418b-96cf-595e87ecd048)
+
 
 ## 📍 Station 2: The Octagonal Bourtzi (The Antenna)
 
