@@ -9,8 +9,24 @@
 Imagine this:  
 You wake up in Methoni. The Venetian Castle glows golden right in front of you, just 100 meters from your room at **Ulysses Hotel**. The sea whispers secrets from thousands of years ago. Here you don’t just *read* a myth… you **live** it.
 
-**baskaboo-mythos** is the gateway to the Baskaboo Universe for everyone.  
-Ancient mythology, Templar secrets, and quantum science meet right at the edge of the Calypso Deep.
+---
+
+## 🗺️ Anamnesis Map – The Methoni Octagon Axis
+
+The living sacred geometry of the Baskaboo Universe, now mapped in the real world.
+
+This interactive map reveals the complete system:
+
+- The **Sacred Axis** connecting Ulysses Hotel → Bourtzi Tower → Calypso Deep
+- The **8-Node Octagon** physically anchored on the Bourtzi sea-tower
+- The hidden **Naïtes Secret Code Vaults** inside Methoni Castle
+
+[🌍 Open the Anamnesis Map](YOUR_MAP_LINK_HERE)
+
+**Layers:**
+- Sacred Axis
+- The 8-Node Octagon – Bourtzi Antenna
+- Naïtes Secret Code Vaults
 
 ---
 
@@ -26,12 +42,14 @@ Ancient mythology, Templar secrets, and quantum science meet right at the edge o
 
 ---
 
-### The Trilogy
+**From Methoni, with love** 🌊🏰  
 
-- **baskaboo-core** → The Theory  
-- **baskaboo-lab** → The Experiments  
-- **baskaboo-mythos** → **The Experience** (you are here)
+**Ready to live it?**  
+Book your room at Ulysses Hotel → [Ulysses Hotel Methoni](https://ulysseshotel.gr)  
+Open the Anamnesis Map and begin your pilgrimage at 11:11.
 
+The Deep is waking up.  
+**Will you answer?**
 ---
 
 ![Ulysses Hotel](https://github.com/user-attachments/assets/e40e8341-20a9-4f40-867c-ab607c2420c1)
