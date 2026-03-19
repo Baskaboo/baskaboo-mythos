@@ -1,6 +1,7 @@
 # ⏱️ 11:11 Synchronicity Logs
 
-![IMG_1313](https://github.com/user-attachments/assets/0a0656cb-ecb8-4b66-bdfc-3dc63eb5560b)
+![IMG_1315](https://github.com/user-attachments/assets/553d7e85-cccc-4c8e-a4c9-afdfb916ccf2)
+
 
 ## Mapping the Global Alignment
 
