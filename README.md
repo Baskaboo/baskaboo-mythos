@@ -21,7 +21,7 @@ This interactive map reveals the complete system:
 - The **8-Node Octagon** physically anchored on the Bourtzi sea-tower
 - The hidden **Naïtes Secret Code Vaults** inside Methoni Castle
 
-[🌍 Open the Anamnesis Map](YOUR_MAP_LINK_HERE)
+[🌍 Open the Anamnesis Map](https://www.google.com/maps/d/u/0/edit?mid=1gyX4OWgXek0JATZSDEaaTrwMby16S_c&usp=sharing)
 
 **Layers:**
 - Sacred Axis
@@ -40,16 +40,6 @@ This interactive map reveals the complete system:
 | [the-pilgrimage.md](./the-pilgrimage.md) | **Your real-life guide** – walk the castle, feel the Nodes |
 | [the-synchronicities.md](./the-synchronicities.md) | The global 11:11 calendar                            |
 
----
-
-**From Methoni, with love** 🌊🏰  
-
-**Ready to live it?**  
-Book your room at Ulysses Hotel → [Ulysses Hotel Methoni](https://ulysseshotel.gr)  
-Open the Anamnesis Map and begin your pilgrimage at 11:11.
-
-The Deep is waking up.  
-**Will you answer?**
 ---
 
 ![Ulysses Hotel](https://github.com/user-attachments/assets/e40e8341-20a9-4f40-867c-ab607c2420c1)
