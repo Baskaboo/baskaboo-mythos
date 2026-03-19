@@ -21,7 +21,7 @@ This interactive map reveals the complete system:
 - The **8-Node Octagon** physically anchored on the Bourtzi sea-tower
 - The hidden **Naïtes Secret Code Vaults** inside Methoni Castle
 
-[🌍 Open the Anamnesis Map](https://www.google.com/maps/d/u/0/edit?mid=1gyX4OWgXek0JATZSDEaaTrwMby16S_c&usp=sharing)
+[🌍 Open the Anamnesis Map](https://www.google.com/maps/d/u/0/edit?mid=1gyX4OWgXek0JATZSDEaaTrwMby16S_c&usp=sharing))
 
 **Layers:**
 - Sacred Axis
