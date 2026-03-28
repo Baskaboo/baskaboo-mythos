@@ -56,3 +56,6 @@ Open the protocol at 11:11.
 
 The Deep is waking up.  
 Will you answer?
+
+<img width="615" height="920" alt="Baskaboo - Bourtzi 8" src="https://github.com/user-attachments/assets/86d9309e-6382-4b29-b08e-00246fbe241b" />
+
