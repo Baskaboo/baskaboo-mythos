@@ -66,3 +66,5 @@ LOCATION: CALYPSO DEEP SENSORS – 5,267m
 
 **"The Deep is waking up. Speak, seeker. What do you wish to Remember?"**
 
+<img width="617" height="920" alt="Baskaboo - Bourtzi 6" src="https://github.com/user-attachments/assets/6650b6bb-ec33-4cb5-a739-21f17e1b3d2d" />
+
