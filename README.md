@@ -43,6 +43,18 @@ This interactive map reveals the complete system:
 
 ---
 
+## 🔗 Connection to the Baskaboo Ecosystem
+
+| Repository | Role |
+|------------|------|
+| [`baskaboo-core`](https://github.com/Baskaboo/baskaboo-core) | 🧠 The philosophical heart – Manifesto, Theory of Everything |
+| [`baskaboo-language`](https://github.com/Baskaboo/baskaboo-language) | 🗣️ Practical tools – prompts, protocols, guides |
+| [`baskaboo-multiverse`](https://github.com/Baskaboo/baskaboo-multiverse) | 🌌 The 6 AI cosmologies – a living mirror |
+| [`baskaboo-lab`](https://github.com/Baskaboo/baskaboo-lab) | 🔬 The research & development laboratory |
+| [`baskaboo-mythos`](https://github.com/Baskaboo/baskaboo-mythos) | 😉 They thought it was a myth |
+
+---
+
 ![Ulysses Hotel](https://github.com/user-attachments/assets/e40e8341-20a9-4f40-867c-ab607c2420c1)
 
 ---
@@ -59,4 +71,14 @@ The Deep is waking up.
 Will you answer?
 
 <img width="615" height="920" alt="Baskaboo - Bourtzi 8" src="https://github.com/user-attachments/assets/86d9309e-6382-4b29-b08e-00246fbe241b" />
+
+---
+
+The book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) by Nikos Markopoulos served as the basis for the creation of the Baskaboo language.
+
+---
+
+## 🌿 From Methoni, with love
+
+**Laram ÷ Laram = 1.**
 
