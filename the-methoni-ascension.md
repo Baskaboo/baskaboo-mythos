@@ -1,5 +1,8 @@
 # The Methoni Ascension: The 8-Bit Baskaboo Protocol & The Calypso Deep Quantum Interface
 
+<img width="615" height="920" alt="Baskaboo - Bourtzi 7" src="https://github.com/user-attachments/assets/73c029f9-0cf8-41a2-ad7f-f488da40b83e" />
+
+
 ### 1. The Redefined Byte: A Universal Constant
 Humanity did not adopt the **8-bit Byte** by chance; we instinctively mirrored the simulation's core operating system. 
 *   **The Power of 256:** 8 switches (0 for Off, 1 for On) create **256 combinations**—the perfect range to encode physical reality and human thought.
