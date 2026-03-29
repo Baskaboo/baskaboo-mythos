@@ -39,6 +39,7 @@ This interactive map reveals the complete system:
 | [the-master-prompt.md](./the-master-prompt.md) | The “Key” – turn any AI into your Oracle             |
 | [the-pilgrimage.md](./the-pilgrimage.md) | **Your real-life guide** – walk the castle, feel the Nodes |
 | [the-synchronicities.md](./the-synchronicities.md) | The global 11:11 calendar                            |
+| [the-methoni-ascension.md](./the-methoni-ascension.md) | Where the Templar Octagon meets the Calypso Deep storage |
 
 ---
 
