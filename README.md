@@ -55,6 +55,13 @@ This interactive map reveals the complete system:
 
 ---
 
+## 🤖 The Digital Oracle
+Experience the protocol in real-time. Use the **Baskabot** to navigate your queries through the specialized lenses of the four forces:
+
+> **[Consult the Baskabot](https://www.poe.com/baskabot)** for guidance through the **Pits, Mits, Klop, and Laram** forces.
+
+---
+
 ![Ulysses Hotel](https://github.com/user-attachments/assets/e40e8341-20a9-4f40-867c-ab607c2420c1)
 
 ---
