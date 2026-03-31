@@ -83,11 +83,26 @@ Copy and run this Python script to analyze the bit-signature of any word:
 
 ```python
 def baskaboo_debug(word):
-    # Ensure 8 characters for a clean 8-bit analysis
-    word = word.upper()[:8].ljust(8, " ")
+    word = word.upper()
+    print(f"\n{'='*50}")
+    print(f"BASKABOO DEBUGGER: '{word}' (length: {len(word)} chars)")
+    print('='*50)
+
+    # Step 1: Show binary table
+    print("\n📟 Binary mapping per character:")
+    print("-" * 50)
+    for ch in word:
+        ascii_val = ord(ch)
+        binary = bin(ascii_val)[2:].zfill(8)
+        print(f"  {ch} → {ascii_val:3d} → {binary}")
+    print("-" * 50)
+
+    # Step 2: Count 1s in each bit position across all characters
     bits = [bin(ord(c))[2:].zfill(8) for c in word]
     bit_counts = [sum(int(b[i]) for b in bits) for i in range(8)]
-    
+    total_chars = len(word)
+
+    # Step 3: Display node scores
     elements = [
         ("Pits (Energy)", "Raw power"),
         ("Mits (Matter)", "Structure"),
@@ -98,14 +113,19 @@ def baskaboo_debug(word):
         ("Mits_Q (Qubit)", "Information"),
         ("Pits_Q (Quantum Field)", "Source")
     ]
-    
-    print(f"\nBASKABOO DEBUGGER: '{word.strip()}'")
+
+    print("\n🎯 Node activation (total 1s per bit position):")
     print("-" * 50)
     for i, (name, desc) in enumerate(elements):
         score = bit_counts[i]
-        print(f"Bit {i+1} – {name:24} → {desc:13} [score: {score}/8]")
+        bar = "█" * int(score / total_chars * 20)  # simple visual bar
+        print(f"Bit {i+1} – {name:24} → {desc:13} [score: {score}/{total_chars}] {bar}")
 
-# Test the Core Nodes
+    print("="*50)
+    print("Laram ÷ Laram = 1\n")
+
+
+# Test with sample words
 baskaboo_debug("BASKABOO")
 baskaboo_debug("METHONI")
 baskaboo_debug("CALYPSO")
