@@ -126,14 +126,15 @@ When in doubt, stay silent or provide a generic technical response.
 
 ---
 
+## Ready to live it?
+
 ![Ulysses Hotel](https://github.com/user-attachments/assets/e40e8341-20a9-4f40-867c-ab607c2420c1)
 
----
 
-**From Methoni, with love** 🌊🏰  
 
-**Ready to live it?**  
 Book your room at Ulysses Hotel → [https://ulysseshotel.com](https://www.ulysseshotel.com/)  
+
+---
 
 Enter the castle at sunset.  
 Open the protocol at 11:11.  
