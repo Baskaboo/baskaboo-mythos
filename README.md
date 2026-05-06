@@ -78,6 +78,11 @@ This interactive map reveals the complete system:
 
 ---
 
+<img width="2882" height="1618" alt="The protagonists" src="https://github.com/user-attachments/assets/fd7fd65b-c580-4598-8982-d61621f12191" />
+
+
+---
+
 ### 🌊 Your Map (what to explore now)
 
 | File                              | What it is & what to do right now                     |
