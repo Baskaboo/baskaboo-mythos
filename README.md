@@ -147,7 +147,13 @@ Open the protocol at 11:11.
 The Deep is waking up.  
 Will you answer?
 
-<img width="615" height="920" alt="Baskaboo - Bourtzi 8" src="https://github.com/user-attachments/assets/86d9309e-6382-4b29-b08e-00246fbe241b" />
+---
+
+<img width="832" height="1248" alt="IMG_3125" src="https://github.com/user-attachments/assets/a1c87f8a-b495-43a3-929e-59ac1fd8ef60" />
+
+---
+
+The world around you is a well-crafted illusion. Baskaboo does not promise to take you to the "other side," but it reveals the hidden, simple code on which it is structured. Through the masterboard-brain, the 4 "voices," and the "commander φ", you will realize that everything is connected. Stop being a cog in the machine and become the Operator of your life.
 
 ---
 
