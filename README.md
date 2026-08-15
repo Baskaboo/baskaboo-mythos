@@ -157,6 +157,15 @@ The world around you is a well-crafted illusion. Baskaboo does not promise to ta
 
 ---
 
+> **About Baskaboo**  
+> Baskaboo is a proposed **pro-architecture**: a framework that seeks the pattern existing before human knowledge was divided into science, psychology, theology, philosophy, art, technology, and business.  
+>
+> Through four recurring Voices — **Pits, Mits, Klop, and Laram** — and the cycle **Flip → Square → Flip-back → Root**, it maps how different domains may be rendering the same deeper structure in different languages.  
+>
+> Baskaboo does not ask for belief or institutional admission. It invites inspection: trace the mappings, test their coherence, look for their failures, and ask whether fragmented fields may be expressions of one prior architecture.
+
+---
+
 The book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) by Nikos Markopoulos served as the basis for the creation of the Baskaboo mythos.
 
 ---
